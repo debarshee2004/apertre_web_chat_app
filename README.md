@@ -1,3 +1,6 @@
+![Logo](./assets/logo.jpeg)
+
+
 # Apertre NextJS Project
 
 This Next.js project is dedicated to creating a Web Chat App based on a Figma design file. The Web Chat App design is available in a Figma community file, which you can access [here](https://www.figma.com/file/BcNhPtrX9pwbCFUWVNL8Zn/Chatting-app-with-summarizer-(Community)?type=design&node-id=0%3A1&mode=design&t=wAzxO7mh1glHjPCh-1).
