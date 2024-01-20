@@ -1,7 +1,27 @@
 ![Logo](./assets/logo.jpeg)
 
 
-# Apertre NextJS Project
+<h1 align="center">Apertre NextJS Project</h1>
+
+ <div align="center">
+ <p>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=debarshee2004%2Fweb_chat_app%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/debarshee2004/web_chat_app)
+![GitHub Repo stars](https://img.shields.io/github/stars/debarshee2004/web_chat_app)
+![GitHub contributors](https://img.shields.io/github/contributors/debarshee2004/web_chat_app)
+![GitHub last commit](https://img.shields.io/github/last-commit/debarshee2004/web_chat_app)
+![GitHub repo size](https://img.shields.io/github/repo-size/debarshee2004/web_chat_app)
+![GitHub total lines](https://sloc.xyz/github/debarshee2004/web_chat_app)
+![Github](https://img.shields.io/github/license/debarshee2004/web_chat_app)
+![GitHub issues](https://img.shields.io/github/issues/debarshee2004/web_chat_app)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/debarshee2004/web_chat_app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/debarshee2004/web_chat_app)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/debarshee2004/web_chat_app)
+ </p>
+ </div>
 
 This Next.js project is dedicated to creating a Web Chat App based on a Figma design file. The Web Chat App design is available in a Figma community file, which you can access [here](https://www.figma.com/file/BcNhPtrX9pwbCFUWVNL8Zn/Chatting-app-with-summarizer-(Community)?type=design&node-id=0%3A1&mode=design&t=wAzxO7mh1glHjPCh-1).
 
